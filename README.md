@@ -21,3 +21,6 @@ Interested in all-things blockchain and smart contracts, especially smart contra
 
 ### Personal projects
 [Token to learn DeFi concepts and techniques](https://github.com/igingu/future-build-token)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igingu)](https://github.com/anuraghazra/github-readme-stats)
+
