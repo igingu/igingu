@@ -1,11 +1,9 @@
 Interested in all-things blockchain and smart contracts, especially smart contracts auditing.
 
 ### Auditing on Code4rena
-[Caviar, a fully on-chain NFT AMM that also allows trading fractional NFT tokens](https://github.com/igingu/code-423n4-2022-12-caviar)
-
-[Ongoing - Rabbithole Quest, a protocol that distributes token rewards for completing on-chain tasks](https://github.com/igingu/code-423n4-2023-01-rabbithole)
-
-[Ongoing - Wenwin Lottery, a 7/35 decentralized, uninterruptable and non error-prone lottery](https://github.com/igingu/code-423n4-2023-03-wenwin)
+<a href="https://github.com/igingu/code-423n4-2022-12-caviar"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igingu&repo=code-423n4-2022-12-caviar&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+<a href="https://github.com/igingu/code-423n4-2023-01-rabbithole"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igingu&repo=code-423n4-2023-01-rabbithole&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+<a href="https://github.com/igingu/code-423n4-2023-03-wenwin"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igingu&repo=code-423n4-2023-03-wenwin&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 
 ### CTFs
 [OpenZeppelin's Ethernaut](https://github.com/igingu/ethernaut)
