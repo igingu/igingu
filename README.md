@@ -3,9 +3,9 @@ Interested in all-things blockchain and smart contracts, especially smart contra
 ### Auditing on Code4rena
 [Caviar, a fully on-chain NFT AMM that also allows trading fractional NFT tokens](https://github.com/igingu/code-423n4-2022-12-caviar)
 
-[Rabbithole Quest, a protocol that distributes token rewards for completing on-chain tasks](https://github.com/igingu/code-423n4-2023-01-rabbithole)
+[Ongoing - Rabbithole Quest, a protocol that distributes token rewards for completing on-chain tasks](https://github.com/igingu/code-423n4-2023-01-rabbithole)
 
-[Wenwin Lottery, a 7/35 decentralized, uninterruptable and non error-prone lottery](https://github.com/igingu/code-423n4-2023-03-wenwin)
+[Ongoing - Wenwin Lottery, a 7/35 decentralized, uninterruptable and non error-prone lottery](https://github.com/igingu/code-423n4-2023-03-wenwin)
 
 ### CTFs
 [OpenZeppelin's Ethernaut](https://github.com/igingu/ethernaut)
