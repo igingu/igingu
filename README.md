@@ -18,3 +18,6 @@ Interested in all-things blockchain and smart contracts, especially smart contra
 [Notes on Ethereum](https://github.com/igingu/ethereum-notes)
 
 [Solidity key concepts using solidity-by-example](https://github.com/igingu/solidity-bits-and-pieces)
+
+### Personal projects
+[Token to learn DeFi concepts and techniques](https://github.com/igingu/future-build-token)
