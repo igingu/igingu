@@ -3,9 +3,8 @@ Interested in all-things blockchain and smart contracts, especially smart contra
 ### Auditing on Code4rena
 ---
 <a href="https://github.com/igingu/code-423n4-2022-12-caviar"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igingu&repo=code-423n4-2022-12-caviar&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-<a href="https://github.com/igingu/code-423n4-2023-01-rabbithole"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igingu&repo=code-423n4-2023-01-rabbithole&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/igingu/code-423n4-2023-03-wenwin"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igingu&repo=code-423n4-2023-03-wenwin&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-
+<a href="https://github.com/igingu/code-423n4-2023-03-canto-identity"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igingu&repo=code-423n4-2023-03-canto-identity&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 ### CTFs
 ---
 <a href="https://github.com/igingu/ethernaut"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igingu&repo=ethernaut&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
