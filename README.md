@@ -3,7 +3,13 @@ Interested in all-things blockchain and smart contracts, especially smart contra
 ### Auditing journey so far
 ---
 <a href="https://github.com/igingu/smart-contract-audits"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igingu&repo=smart-contract-audits&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+
+### SECUREUM Bootcamp and RACEs
+---
+<a href="https://github.com/igingu/secureum"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igingu&repo=secureum&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+
 ### CTFs
+
 ---
 <a href="https://github.com/igingu/ethernaut"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igingu&repo=ethernaut&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/igingu/QuillCTF"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igingu&repo=QuillCTF&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
